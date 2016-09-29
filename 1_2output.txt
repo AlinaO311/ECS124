@@ -1,3 +1,0 @@
-When in double quotes:
-Use \ to output \
-Use \t to output tabs
