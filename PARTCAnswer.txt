@@ -1,0 +1,30 @@
+##PART C 
+
+
+**Report how many times ELVIS appears in the protein database SWISSPROT:**
+
+174
+ 
+**how many times LIVES appears**
+
+126
+
+**how many time they appear consecutively. **
+
+0
+
+**Do ELVIS and DEAD appear together?**
+
+0
+
+** How many times does PERL appear?**
+
+3963
+
+ **Does PERLISGREAT appear?**
+
+0
+
+**What would it mean if any of these longer statements did appear in the protein files?**
+
+This would mean that the sequence matched every single amino acid with the entire statement.
