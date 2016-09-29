@@ -1,2 +1,0 @@
-Welcome to Perl
-TATA is a box
