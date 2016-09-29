@@ -1,6 +1,0 @@
-## PartD
-
-**What does B mean?**
-
-**What is the probability that a nucleobase read at a position marked with B is incorrect?**
-
