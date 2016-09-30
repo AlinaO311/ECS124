@@ -3,15 +3,16 @@
 use strict; #
 use warnings;
 
-sub main
-{
-  open (MYFILE, 'sample.fastq')
-  while (<MYFILE>) {
-  chomp;
+open(FILE, "sample.fastq") or die;
 
-  
-  }
-
+my $flag = 0;
+while (<FILE>) {
+    if ($flag) {
+        $flag = 0;
+        print $_;
+    }
+    if (/^@/) {
+        $flag = 1;
+        print;
+    }
 }
-
-main();
