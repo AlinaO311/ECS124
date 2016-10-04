@@ -18,3 +18,10 @@ sub main
 }
 
 main();
+
+=commentstart
+
+dna sequence: ATBABTAGTCGTUAEYGUGTCATAACIYGtagtcagcattgteTAG
+There are 20 purines in this sequence
+
+=commentend
