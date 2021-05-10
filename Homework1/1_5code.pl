@@ -5,5 +5,5 @@ $P =~ tr/A-Za-z/a-zA-Z/;
 print "$P \n";
 
 =commentstart
-blahahahah
+program to change all caps tp lowercase and all lowercase to caps
 =commentend
